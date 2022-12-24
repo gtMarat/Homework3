@@ -32,10 +32,10 @@ public class Main {
         System.out.println("Задача 2 ");
         float a = 27.12F;
         long b = 987678965549L;
-        float c = 2.786F;
+        double c = 2.786;
         short d = 569;
-        short e = -159;
-        short f = 27897;
+        char e =(char)-159;
+        int f = 27897;
         byte g = 67;
     }
 
